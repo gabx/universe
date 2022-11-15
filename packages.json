@@ -1,0 +1,26 @@
+[
+  {
+    "package":"rmarkdown",
+    "url":"https://github.com/r-universe/rstudio/rmarkdown"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/r-universe/rstudio/shiny"
+  },
+  {
+    "package": "fontawesome",
+    "url": "https://github.com/r-universe/rstudio/fontawesome"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/r-universe/rstudio/htmltools"
+  },
+  {
+    "package": "crypto2",
+    "url": "https://github.com/r-universe/sstoeckl/crypto2",
+  },
+  {
+    "package" : "cryptowatchR",
+    "url" : "https://github.com/r-universe/lorenzbr/cryptowatchR",
+  }
+]
