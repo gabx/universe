@@ -14,9 +14,5 @@
   {
     "package": "htmltools",
     "url": "https://github.com/r-universe/rstudio/htmltools"
-  },
-  {
-    "package" : "cryptowatchR",
-    "url" : "https://github.com/r-universe/lorenzbr/cryptowatchR",
   }
 ]
